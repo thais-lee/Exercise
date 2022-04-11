@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Exercise_20194372</string>
+    <string name="sh1">Balancing the prospect of eating or being eaten, mid-sized carnivores snatch food from apex predators more often than previously thought.</string>
+    <string name="Coyotes">Coyotes are well-known for their adaptability and trickster ways. This has helped the wily critters recolonize much of their former habitat and spread into the fringes of human-dominated landscapes where they were previously absent.\n\n
+        While these medium-sized meat-eaters, known as mesocarnivores, can be cagy around people, they take chances around large non-human predators. New research shows that <u>coyotes</u> often try to steal or scavenge on prey killed by <u>mountain lions</u>, such as deer and elk. But this risk-taking comes with a cost: It’s not uncommon for cougars to eat coyotes.\n\n
+        Researchers in Oregon recently found that mountain lions killed about a quarter of all coyotes in one study area. Competition for prey may be the reason: The study found that elk meat—from animals killed by cougars—made up more than half of the coyote’s diet.
+        \n\n
+        This paper, <u>published in Proceedings of the National Academy of Sciences</u>, is one in a series of recent studies showing the medium-sized carnivores often take such risks, much more than previously thought. Globally, large carnivores—including cougars and wolves—are responsible <u>for about a third of all mesocarnivore deaths</u>. Meanwhile, stolen prey made up about 30 percent of the diet of these smaller predators, which include coyotes, bobcats, and black bears.
+        \n\n
+        “It’s certainly possible that even though it’s risky, coyotes just can’t help themselves” to freshly-killed deer and the like, says Laura Prugh, a University of Washington professor who authored a 2020 paper in Ecology Letters that addresses these relationships. “It’s also possible, though, that they’re able to assess risk, say, based on how fresh the sign is of the large carnivores or by being more vigilant.”
+        \n\n
+        This risk-taking, or what Prugh calls “enemies with benefits” plays out differently depending on the ecosystem and species involved. These papers consistently note that trying to remove one carnivore from a landscape, or encourage another to return, will likely result in difficult-to-predict consequences.
+        \n\n
+        “The presence of cats affects coyotes. The presence of coyotes affect cats. Wolves affect coyotes and coyotes affect wolves,” says Kevin Monteith, a researcher at the University of Wyoming. “None of their actions are independent of each other.”
+    </string>
+    <string name="Coyotes_heading">Coyotes risk it all to steal from mountain lions</string>
+    <string name="sh2">A carnivore’s calculation</string>
+    <string name="content2">Prugh stumbled on the phenomenon she calls “fatal attraction” when studying gray wolves in central Alaska.
+        Prevailing thought held that apex predators kept smaller predators in check.
+        But when snowshoe hare numbers crashed in her study area, and coyotes began scavenging much more on wolf kills,\
+        she wondered if mesocarnivores might actually benefit from having apex predators around.
+        \n\n
+        And they did benefit—kind of. She found coyotes lingered in areas with wolf packs to sneak a chance at their kills.
+        But she also found the risk of coyotes being killed by wolves went up.
+        \n\n
+        “So maybe these kill sites are not actually just a free meal,” she says.
+        \n\n
+        Why all this focus on coyotes? They’re among the biggest players in North America’s mesocarnivore population.
+        They range from Alaska to Panama, and possibly even farther south. They’re clever, good at reproducing, and adaptable,
+        and they’re often most willing to take risks for food. <u>(Learn more: Coyotes have expanded their range to 49 states—and beyond.)</u>
+
+    </string>
+
+    <string name="sh3">A tangled web of fear and hunger </string>
+    <string name="content3">Mesocarnivores’ dependence on apex predator kills—as coyotes rely on cougars—could
+        either show that predators have less impact on big game populations or more, depending on who you ask, Levi says.
+        \n\n
+        “If you hate them, you might say we’ve got to kill cougars because not only are they killing deer,
+        but they’re supporting an abundant coyote population that also kills deer,” he says.
+        “Or you could say we need to keep cougars because they’re diverting coyotes away from deer by supplying them with elk.
+        But both of those are missing parts of the story that are still uncertain.”
+        \n\n
+        Researchers still want to know if scavenging at kill sites actually increases the risk of death for mesocarnivores.
+        It’s possible that species like coyotes are simply at risk of being killed by mountain lions or wolves regardless of where they spend their time.
+        \n\n
+
+        Scientists do know, however, that while fear of death is a motivator even for predatory species like coyotes or foxes, so is hunger.
+        \n\n
+        “On a per capita basis, if you have a one in five chance of dying, that’s really bad,” Levi says. “So you would think that they
+        would go to great lengths to avoid that. But I guess it’s really about the relative risk of being at a kill versus not being killed that matters.”
+    </string>
+
+    <string name="author">National Geographic</string>
+</resources>
